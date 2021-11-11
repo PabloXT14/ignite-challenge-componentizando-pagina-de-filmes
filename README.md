@@ -33,4 +33,7 @@ Esta é uma aplicação ReactJS desenvolvida para a listagem do filmes por categ
         * `yarn dev` (executa a aplicação em modo de desenvolvimento), veja em qual porta o projeto é aberto para executar no seu browser, geralmente é _http://localhost:8080_
         * `yarn build` (executa a aplicação em modo de produção), após executar este comando você terá/poderá executar o arquivo `index.html` da pasta `dist` no seu browser.  
 
-* Obs: a página não está responsiva, o conteúdo só está adaptável para PC/Computador. 
+* Obs: a página não está responsiva, o conteúdo só está adaptável para PC/Computador.
+
+### 🏍 Deploy
+* Para rodar o deploy da aplicação acesse: 
