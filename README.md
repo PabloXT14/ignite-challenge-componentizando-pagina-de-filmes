@@ -2,8 +2,10 @@
 Esta é uma aplicação ReactJS desenvolvida para a listagem do filmes por categoria, onde os dados relativos aos filmes vêm através de uma **Fake API com JSON Server** (através de rotas na biblioteca do _Axios_). Sendo este um projeto desenvolvido como Desafio do curso Ignite ReactJS da Rocketseat.
 
 ## 📷 Demonstration
-<!-- <img src="./src/assets/Demonstration-Movie_Page-ReactJS.gif" alt="Imagem de Demostração"> -->
 <img src="./src/assets/Card-Demonstration-Movie_Page-ReactJS.jpg" alt="Imagem de Demostração">
+<br/>
+<img src="./src/assets/Demonstration-Movie_Page-ReactJS.gif" alt="Gif de Demostração">
+
 
 ## 🚀 Technologies
 ✔ HTML
@@ -35,5 +37,3 @@ Esta é uma aplicação ReactJS desenvolvida para a listagem do filmes por categ
 
 * Obs: a página não está responsiva, o conteúdo só está adaptável para PC/Computador.
 
-### 🏍 Deploy
-* Para rodar o deploy da aplicação acesse: 
